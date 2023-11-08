@@ -1,6 +1,6 @@
 name: flutter_cast_framework
 description: A plugin to interact with Chromecast.
-version: 0.0.1-alpha.1
+version: 0.0.1
 homepage: https://github.com/gianlucaparadise/flutter_cast_framework
 documentation: https://gianlucaparadise.github.io/flutter_cast_framework/api/
 
