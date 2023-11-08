@@ -1,6 +1,6 @@
 import 'package:flutter/widgets.dart';
-import 'package:flutter_cast_framework/cast.dart';
-import 'package:flutter_cast_framework/src/cast/widgets/queue_list/utils.dart';
+import 'package:flutter_cast_framework_v2/cast.dart';
+import 'package:flutter_cast_framework_v2/src/cast/widgets/queue_list/utils.dart';
 
 typedef ListItemBuilder = Widget Function(
   BuildContext context,

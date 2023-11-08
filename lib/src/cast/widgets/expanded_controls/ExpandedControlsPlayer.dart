@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_cast_framework/cast.dart';
+import 'package:flutter_cast_framework_v2/cast.dart';
 
 class ExpandedControlsPlayer extends StatefulWidget {
   final FlutterCastFramework castFramework;

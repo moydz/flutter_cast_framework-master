@@ -124,10 +124,8 @@ typedef NS_ENUM(NSUInteger, PlayerState) {
 
 @interface MediaMetadata : NSObject
 + (instancetype)makeWithMediaType:(MediaType)mediaType
-    strings:(nullable NSDictionary<NSString *, NSString *> *)strings
     webImages:(nullable NSArray<WebImage *> *)webImages;
 @property(nonatomic, assign) MediaType mediaType;
-@property(nonatomic, strong, nullable) NSDictionary<NSString *, NSString *> * strings;
 @property(nonatomic, strong, nullable) NSArray<WebImage *> * webImages;
 @end
 

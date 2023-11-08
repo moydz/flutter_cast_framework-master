@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_cast_framework/src/PlatformBridgeApis.dart';
+import 'package:flutter_cast_framework_v2/src/PlatformBridgeApis.dart';
 import 'package:meta/meta.dart';
 
 typedef MediaQueueItemsInsertedInRangeCallback = void Function(

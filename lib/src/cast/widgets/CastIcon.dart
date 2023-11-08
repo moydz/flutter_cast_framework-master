@@ -24,7 +24,7 @@ Widget _getButton(String assetName, Color color) {
   return SvgPicture.asset(
     assetName,
     color: color,
-    package: 'flutter_cast_framework',
+    package: 'flutter_cast_framework_v2',
     semanticsLabel: 'Cast Button',
   );
 }

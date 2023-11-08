@@ -1,12 +1,12 @@
-name: flutter_cast_framework
+name: flutter_cast_framework_v2
 description: A plugin to interact with Chromecast.
-version: 0.0.1
-homepage: https://github.com/gianlucaparadise/flutter_cast_framework
+version: 0.0.9
+homepage: https://github.com/moydz/flutter_cast_framework-md.git
 documentation: https://gianlucaparadise.github.io/flutter_cast_framework/api/
 
 environment:
   sdk: '>=2.19.5 <3.7.8'
-  flutter: 1.0.8+8
+  flutter: ">=1.20.0"
 
 dependencies:
   flutter:

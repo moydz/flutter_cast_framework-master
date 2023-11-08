@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:flutter_cast_framework/cast.dart';
+import 'package:flutter_cast_framework_v2/cast.dart';
 
 /// Placeholder to be used for the castingToText of ExpandedControlsConnectedDeviceLabel
 const CAST_DEVICE_NAME_PLACEHOLDER = "{{cast_device_name}}";
